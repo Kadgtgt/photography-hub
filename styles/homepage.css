@@ -53,29 +53,3 @@ header h1 {
 	color: #f2b061;
 	font-size: 80px;
 }
-
-main h1 {
-	margin: 20px 0 10px 35px;
-	font-size: 30px;
-	text-align: center;
-	color: black;
-}
-
-main h1 span {
-	color: red;
-}
-
-main p {
-	margin: 10px 0 0 35px;
-	word-spacing: 7px;
-	color: black;
-}
-
-main p span {
-	font-weight: bolder;
-	font-size: 20px;
-}
-
-main p span:hover {
-	color: blue;
-}
